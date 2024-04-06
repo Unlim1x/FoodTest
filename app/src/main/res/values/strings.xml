@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodTest</string>
+    <string name="title_menu">Меню</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_cart">Корзина</string>
+    <string name="Moscow">Москва</string>
+    <string name="loading_error_string">Ошибка загрузки</string>
+    <string name="repeat_string">Повторить</string>
+    <string name="refreshing">Обновление</string>
+
+
+</resources>

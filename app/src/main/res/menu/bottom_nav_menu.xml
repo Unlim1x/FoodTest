@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/menu_vec"
+        android:title="@string/title_menu" />
+
+    <item
+
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile_vec"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/cart_cvec"
+        android:title="@string/title_cart" />
+
+</menu>
